@@ -1,4 +1,4 @@
-# What is Softare?
+# What is Software?
 
 - **Software** can be understood as a set of instructions that, when executed, provide resources, functionalities, and the expected performance of a system. It is what transforms the potential of hardware into something useful and applicable in everyday tasks, from simple actions to complex operations. 
 
@@ -10,3 +10,10 @@
 
 - A collection of programs responsible for managing the computer’s operation and supporting the execution of other programs. The main example is the operating system, which controls the hardware and allows user interaction with the computer. Utility software or system tools are also part of the system, helping with maintenance and proper functioning.
 Examples: Microsoft Windows, Android, macOS, and Linux.
+
+## Utility Software
+
+- Provides users with tools to manage and maintain the computer system. These tools help organize disks, check memory availability, and correct processing errors. They are essential for the proper functioning and maintenance of the computer system.
+Examples: antivirus software, file compressors, emulators, disk defragmenters, formatting tools, and backup programs.
+
+## Application Software
