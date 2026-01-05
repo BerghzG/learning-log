@@ -7,3 +7,6 @@
 - **Documentation** gathers detailed explanations, in both printed and digital formats, that guide users and developers. It describes how the programs work, how to install them, and how to use their features properly, while also serving as a reference for troubleshooting and maintenance.
 
 ## Basic System Software
+
+- A collection of programs responsible for managing the computer’s operation and supporting the execution of other programs. The main example is the operating system, which controls the hardware and allows user interaction with the computer. Utility software or system tools are also part of the system, helping with maintenance and proper functioning.
+Examples: Microsoft Windows, Android, macOS, and Linux.
