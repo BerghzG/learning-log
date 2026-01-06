@@ -17,3 +17,8 @@ Examples: Microsoft Windows, Android, macOS, and Linux.
 Examples: antivirus software, file compressors, emulators, disk defragmenters, formatting tools, and backup programs.
 
 ## Application Software
+
+- Application software is a set of programs that help computer users perform specific tasks in their daily activities. These programs are commonly known as applications or apps.
+Examples of application software include web browsers, word processors, spreadsheets, presentation software, DBMSs (Database Management Systems), image editors, and others.
+
+## Operating System
