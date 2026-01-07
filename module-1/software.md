@@ -22,3 +22,9 @@ Examples: antivirus software, file compressors, emulators, disk defragmenters, f
 Examples of application software include web browsers, word processors, spreadsheets, presentation software, DBMSs (Database Management Systems), image editors, and others.
 
 ## Operating System
+
+**Operating system** is a type of **system software** responsible for managing the computer’s resources and enabling interaction between the user, the hardware, and application programs.
+
+A **system** can be defined as a set of parts that interact with each other to achieve a specific objective.
+
+What differentiates **system software** from other types of software is that it consists of a collection of programs that work together to control the operation of the computer and support the execution of application software.
