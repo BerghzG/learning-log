@@ -36,3 +36,16 @@ Examples of application software include web browsers, word processors, spreadsh
 - Semantics, on the other hand, refers to the content and meaning of these instructions. Even if a command is syntactically correct, it might not make sense from a semantic point of view, that is, it might not correctly represent the programmer's intention.
 
 - There is also the so-called semantic gap, which represents the difference between programming logic and everyday logic. While humans interpret information in a flexible and contextual way, programming languages require precise instructions without ambiguities, following strict rules of syntax and semantics.
+
+## Software Development Glossary
+
+- In software development, systems are generally divided into layers. The front-end corresponds to the graphical and visual part of a web application, being responsible for everything the user interacts with directly, such as layouts, colors, buttons, and animations. The **back-end**, on the other hand, is the server side, where the business rules, data processing, and communication with databases are handled.
+- When a professional works in both **front-end** and back-end, we say they work as a **full-stack** developer, meaning they master both approaches to development.
+
+- For different systems to be able to communicate with each other, APIs (Application Programming Interfaces) are used. They are sets of routines, standards, and programming rules that allow applications to access functionalities of other software, especially on web-based platforms, facilitating the integration between programs and services.
+
+- In the development process, it is common to use frameworks, which are sets of code and tools based on a specific programming language. Frameworks act as the backbone of the system, providing libraries with ready-made functions and a standard structure that helps, organizes, and speeds up the development of web applications or software.
+
+- Regarding the type of development, it can be native or hybrid. Native development is done for a single platform, using specific languages and tools, such as Android Studio with Java or Kotlin for Android applications. On the other hand, hybrid development uses technologies like HTML, CSS, and JavaScript, along with frameworks or tools that allow a single codebase to generate applications that work on different platforms.
+
+- Finally, the term services refers to running software processes. In this context, a software process does not mean the set of activities in software engineering, but rather a program that is being processed and executed by the operating system.
