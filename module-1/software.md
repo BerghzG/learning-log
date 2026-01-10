@@ -39,13 +39,20 @@ Examples of application software include web browsers, word processors, spreadsh
 
 ## Software Development Glossary
 
-- In software development, systems are generally divided into layers. The front-end corresponds to the graphical and visual part of a web application, being responsible for everything the user interacts with directly, such as layouts, colors, buttons, and animations. The **back-end**, on the other hand, is the server side, where the business rules, data processing, and communication with databases are handled.
-- When a professional works in both **front-end** and back-end, we say they work as a **full-stack** developer, meaning they master both approaches to development.
+- In software development, applications are usually organized into layers and architectures that define how systems function and communicate. The front-end corresponds to the graphical and visual part of a web application, being responsible for direct interaction with the user, such as layout, colors, buttons, and animations. The back-end, on the other hand, represents the server side, where data processing, business logic, and communication with databases take place.
 
-- For different systems to be able to communicate with each other, APIs (Application Programming Interfaces) are used. They are sets of routines, standards, and programming rules that allow applications to access functionalities of other software, especially on web-based platforms, facilitating the integration between programs and services.
+- When a professional works on both the front-end and the back-end, they are considered full-stack, as they operate across all layers of the application.
 
-- In the development process, it is common to use frameworks, which are sets of code and tools based on a specific programming language. Frameworks act as the backbone of the system, providing libraries with ready-made functions and a standard structure that helps, organizes, and speeds up the development of web applications or software.
+- Communication between systems is enabled through APIs (Application Programming Interfaces), which are sets of rules, standards, and programming routines. APIs allow different applications to access each other’s functionalities, especially in web-based environments, promoting integration between software and services.
 
-- Regarding the type of development, it can be native or hybrid. Native development is done for a single platform, using specific languages and tools, such as Android Studio with Java or Kotlin for Android applications. On the other hand, hybrid development uses technologies like HTML, CSS, and JavaScript, along with frameworks or tools that allow a single codebase to generate applications that work on different platforms.
+- During development, frameworks are commonly used. These consist of sets of code, libraries, and tools based on a specific programming language. They serve as the backbone of the application, providing ready-made structures and reusable functions that simplify, standardize, and accelerate the development of software and web applications.
 
-- Finally, the term services refers to running software processes. In this context, a software process does not mean the set of activities in software engineering, but rather a program that is being processed and executed by the operating system.
+- Regarding development approaches, applications can be native or hybrid. Native development targets a single platform, using its own languages and tools, such as Android Studio with Java or Kotlin for Android applications. In contrast, hybrid development uses technologies like HTML, CSS, and JavaScript, along with frameworks that allow a single codebase to generate applications that run on multiple platforms.
+
+- Beyond the type of development, the system’s structure can also vary depending on the chosen architecture. In a monolithic architecture, the entire application runs as a single process, with all components tightly integrated. In a microservices architecture, the software is organized as a set of small, independent, autonomous, and specialized services. These services communicate with each other through well-defined APIs, making system maintenance, scalability, and evolution easier.
+
+- In the context of communication between services, there are different standards and protocols. SOAP (Service-Oriented Architecture Protocol) is a protocol used for exchanging messages between systems, based on XML files and usually transported via HTTPS. Another widely used approach is REST (Representational State Transfer), which is not a protocol but rather a set of architectural constraints for building web services.
+
+- When a service follows these constraints, it is called RESTful. RESTful services typically use HTTPS as the transport protocol and exchange data in JSON format, as it is lighter and easier to read compared to XML.
+
+- Finally, the term services refers to software processes in execution. In this context, a software process is not related to the set of activities in software engineering, but rather to a program that is being executed and managed by the operating system.
