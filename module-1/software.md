@@ -55,4 +55,8 @@ Examples of application software include web browsers, word processors, spreadsh
 
 - When a service follows these constraints, it is called RESTful. RESTful services typically use HTTPS as the transport protocol and exchange data in JSON format, as it is lighter and easier to read compared to XML.
 
+- During development, the use of code control practices is also essential. A commit represents the submission and recording of changes made to a specific piece of code, marking the creation of a new version of the project. This process allows tracking the evolution of the software over time.
+
+- Related to this, versioning consists of assigning numbers or version identifiers to each state of the project, making it easier to control modifications. A simple example of versioning is organizing the project into folders with different versions, such as trabalho_fds_v1, trabalho_fds_v2, and so on.
+
 - Finally, the term services refers to software processes in execution. In this context, a software process is not related to the set of activities in software engineering, but rather to a program that is being executed and managed by the operating system.
