@@ -59,4 +59,10 @@ Examples of application software include web browsers, word processors, spreadsh
 
 - Related to this, versioning consists of assigning numbers or version identifiers to each state of the project, making it easier to control modifications. A simple example of versioning is organizing the project into folders with different versions, such as trabalho_fds_v1, trabalho_fds_v2, and so on.
 
+- Versioning consists of assigning numbers or identifiers to each state of the project, making it easier to track the changes made. A simple example of versioning is organizing the project into folders with different versions, such as trabalho_fds_v1, trabalho_fds_v2, and so on.
+
+- In this context, Git is a widely used version control system in software development. It manages the various versions of a project, allowing for non-linear development through branching. In fact, Git's logo represents this idea of branching and parallel evolution of code.
+
+- Complementing Git, GitHub is a comprehensive platform for developers, used to create, share, scale, and deliver software collaboratively and securely. GitHub uses Git as the foundation for version control, providing additional features such as repository hosting, team collaboration, and change tracking.
+
 - Finally, the term services refers to software processes in execution. In this context, a software process is not related to the set of activities in software engineering, but rather to a program that is being executed and managed by the operating system.
