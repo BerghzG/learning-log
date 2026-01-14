@@ -66,3 +66,5 @@ Examples of application software include web browsers, word processors, spreadsh
 - Complementing Git, GitHub is a comprehensive platform for developers, used to create, share, scale, and deliver software collaboratively and securely. GitHub uses Git as the foundation for version control, providing additional features such as repository hosting, team collaboration, and change tracking.
 
 - Finally, the term services refers to software processes in execution. In this context, a software process is not related to the set of activities in software engineering, but rather to a program that is being executed and managed by the operating system.
+
+## Software Development Life Cycle
