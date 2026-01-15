@@ -76,3 +76,22 @@ Examples of application software include web browsers, word processors, spreadsh
 - Simplified Representation of a Software Process:
 A simplified software process representation typically includes the following phases:
 Requirements Analysis → System Design → Implementation (Coding) → Testing → Deployment → Maintenance
+
+## Waterfall Model
+
+- The **Waterfall model**, also known as the **classic** or **traditional** model, is one of the oldest software development models. It is part of the **SDLC (Software Development Life Cycle)**.
+
+- The **SDLC** is a structured process used to plan, develop, test, deploy, and maintain software systems. It defines the stages necessary to ensure the quality and reliability of the final product.
+
+- In the **Waterfall model**, development follows a **linear and sequential** flow, meaning that each phase must be fully completed before moving on to the next one. The main phases of the Waterfall model are:
+
+1. **Requirements Analysis** – identification and documentation of system requirements.  
+2. **System Design** – definition of the software architecture and design.  
+3. **Implementation** – development of the source code.  
+4. **Testing** – verification and validation to detect defects.  
+5. **Deployment** – delivery of the system to the end users.  
+6. **Maintenance** – corrections and improvements after deployment.
+
+- The model is called **Waterfall** because its phases flow downward in a fixed order, similar to a waterfall. Once a phase is completed, returning to previous phases is difficult and uncommon.
+
+- The Waterfall model is best suited for **small or simple projects** with **well-defined and stable requirements**, but it offers limited flexibility for changes during development.
