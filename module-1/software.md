@@ -69,11 +69,10 @@ Examples of application software include web browsers, word processors, spreadsh
 
 ## Software Development Life Cycle
 
-The Software Development Life Cycle (SDLC) is a structured process used to plan, design, develop, test, deploy, and maintain software systems. Its main goal is to ensure the production of high-quality software that meets user requirements, is delivered on time, and stays within budget. The SDLC provides a clear framework that helps teams manage complexity, reduce risks, and improve efficiency throughout the development process.
+- The Software Development Life Cycle (SDLC) is a structured process used to plan, design, develop, test, deploy, and maintain software systems. Its main goal is to ensure the production of high-quality software that meets user requirements, is delivered on time, and stays within budget. The SDLC provides a clear framework that helps teams manage complexity, reduce risks, and improve efficiency throughout the development process.
 
-Process Model:
-A process model defines the stages and activities involved in software development and how they are organized and executed. Common SDLC process models include Waterfall, Agile, Spiral, and Incremental models. Each model offers a different approach to managing tasks, timelines, and changes during the software development process.
+- Process Model: A process model defines the stages and activities involved in software development and how they are organized and executed. Common SDLC process models include Waterfall, Agile, Spiral, and Incremental models. Each model offers a different approach to managing tasks, timelines, and changes during the software development process.
 
-Simplified Representation of a Software Process:
+- Simplified Representation of a Software Process:
 A simplified software process representation typically includes the following phases:
 Requirements Analysis → System Design → Implementation (Coding) → Testing → Deployment → Maintenance
