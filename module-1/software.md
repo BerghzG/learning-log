@@ -95,3 +95,21 @@ Requirements Analysis → System Design → Implementation (Coding) → Testing 
 - The model is called **Waterfall** because its phases flow downward in a fixed order, similar to a waterfall. Once a phase is completed, returning to previous phases is difficult and uncommon.
 
 - The Waterfall model is best suited for **small or simple projects** with **well-defined and stable requirements**, but it offers limited flexibility for changes during development.
+
+## Agile Methodology
+
+**Agile methodology** is an alternative to **traditional project management** approaches, such as the Waterfall model. It was created to address the need for more flexibility and faster response to change in software development projects.
+
+Agile focuses on the **rapid delivery of functional features**, allowing teams to deliver value to users in short development cycles called **iterations**. Instead of prioritizing detailed documentation and rigid planning, Agile emphasizes **working software over extensive project documentation**, focusing more on the software itself than on the project plan.
+
+This methodology is especially suitable for applications in which **requirements change frequently or are not fully defined at the beginning** of the project. Agile enables teams to adapt quickly to changes based on continuous feedback.
+
+There are several Agile approaches, with two of the most well-known being:
+
+## Extreme Programming (XP)
+
+**Extreme Programming (XP)** is an Agile approach that emphasizes **high-quality code** and **technical excellence**. It promotes practices such as continuous testing, pair programming, frequent releases, and close collaboration with the customer. XP aims to improve software quality and responsiveness to changing requirements.
+
+## Scrum
+
+**Scrum** is an Agile framework focused on **team collaboration, transparency, and iterative progress**. Development is organized into short, time-boxed iterations called **Sprints**, usually lasting between one and four weeks. Scrum defines specific roles, such as the **Product Owner**, **Scrum Master**, and **Development Team**, as well as events like Sprint Planning, Daily Scrum, Sprint Review, and Sprint Retrospective. The goal of Scrum is to deliver a potentially usable product increment at the end of each Sprint.
