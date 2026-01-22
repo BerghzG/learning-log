@@ -5,3 +5,12 @@ This repository is a collection of my studies, notes, and practical exercises fr
 The goal of this Repository is to document my learning process, consolidate concepts, and track my technical growth over time. Here you will find summaries, explanations in my own words, and small practical examples related to the subjects studied during the course.
 
 This is not a finished product, but an evolving learning log that reflects my progress as a student and aspiring developer.
+
+## Certifications: Soft Skills
+
+| Badge | Course | Description | Status | Certificate |
+| :--- | :--- | :--- | :---: | :---: |
+| ![Sebrae](https://img.shields.io/badge/Sebrae-CNV-blue?style=flat-square) | **Non-Violent Communication** | Focuses on empathy, active listening, and conflict resolution in professional environments. | Done | [View](./Certificates/CNV.pdf) |
+| ![Coursera](https://img.shileds.io/badge/Coursera-Time_Mgmt-orange?style=flat-square) | **Work Smarter, Not Harder** | Personal and professional productivity techniques. | In Progress | - |
+
+---
