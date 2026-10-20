@@ -21,7 +21,7 @@ This is not a finished product, but an evolving learning log that reflects my pr
 
 | Badge | Course | Hard Skill | Description | Status | Certificate |
 | :--- | :--- | :--- | :--- | :---: | :---: |
-| <https://img.shields.io/badge/Fundação_Bradesco-Excel-green?style=flat-square> | **Excel na Prática** | **Microsoft Excel** | Practical application of Microsoft Excel for data organization, spreadsheet creation, formulas, functions, data analysis, formatting, productivity, and decision-making support in professional environments. | Done | Certificates/HardSkill/FundacaoBradesco/Excel_na_Pratica.pdf |
+| ![Bradesco](https://img.shields.io/badge/Fundação_Bradesco-Excel-green?style=flat-square) | **Excel na Prática** | **Microsoft Excel** | Practical application of Microsoft Excel for data organization, spreadsheet creation, formulas, functions, data analysis, formatting, productivity, and decision-making support in professional environments. | Done | Certificates/HardSkill/FundacaoBradesco/Excel_na_Pratica.pdf |
 
 ---
 
