@@ -13,7 +13,7 @@ This is not a finished product, but an evolving learning log that reflects my pr
 | ![Sebrae](https://img.shields.io/badge/Sebrae-CNV-blue?style=flat-square) | **Non-Violent Communication** | Focuses on empathy, active listening, and conflict resolution in professional environments. | Done | [View](Certificates/SoftSkill/Sebrae/CNV.pdf) |
 | ![Coursera](https://img.shields.io/badge/Coursera-Time_Mgmt-orange?style=flat-square) | **Work Smarter, Not Harder** | Personal and professional productivity techniques. | Done | [View](Certificates/SoftSkill/Coursera/Time_Management.pdf) |
 | ![EVG](https://img.shields.io/badge/EV.G-Agile_Mgmt-brightgreen?style=flat-square) | *Agile Management* | Scrum, Kanban, and Design Thinking applied to Digital Transformaton. | Done | [View](Certificates/SoftSkill/EVG/Digital_Transformation_Agile.pdf) |
-| ![PROA](https://img.shields.io/badge/Proa-Career-purple?style=flat-square) | *PROA Journey* | Program focused on bahavioral skills and employability. | In Progress | - |
+| ![PROA](https://img.shields.io/badge/Proa-Career-purple?style=flat-square) | *PROA Journey* | Program focused on bahavioral skills and employability. | Done | - |
 
 ---
 
@@ -21,7 +21,7 @@ This is not a finished product, but an evolving learning log that reflects my pr
 
 | Badge | Course | Hard Skill | Description | Status | Certificate |
 | :--- | :--- | :--- | :--- | :---: | :---: |
-| ![Bradesco](https://img.shields.io/badge/Fundação_Bradesco-Excel-green?style=flat-square) | **Excel na Prática** | **Microsoft Excel** | Practical application of Microsoft Excel for data organization, spreadsheet creation, formulas, functions, data analysis, formatting, productivity, and decision-making support in professional environments. | Done | Certificates/HardSkill/FundacaoBradesco/Excel_na_Pratica.pdf |
+| ![Bradesco](https://img.shields.io/badge/Fundação_Bradesco-Excel-green?style=flat-square) | **Excel na Prática** | **Microsoft Excel** | Practical application of Microsoft Excel for data organization, spreadsheet creation, formulas, functions, data analysis, formatting, productivity, and decision-making support in professional environments. | Done | ![View](Certificates/HardSkill/FundacaoBradesco/Excel_na_Pratica.pdf) |
 
 ---
 
